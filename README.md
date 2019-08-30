@@ -1,4 +1,4 @@
-TODOIST-like app build with React.js
+TODOIST-like app built with React.js
 ===
 
 FCC tutorial at https://www.youtube.com/watch?v=hT3j87FMR6M
